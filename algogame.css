@@ -1,0 +1,21 @@
+body {
+  font-size: x-large;
+}
+
+#imgdiv {
+  display: flex;
+  justify-content: center;
+}
+
+#homer {
+  display: flex;
+  align-items: center;
+}
+#bart {
+  display: flex;
+  align-items: center;
+}
+#lisa {
+  display: flex;
+  align-items: center;
+}
